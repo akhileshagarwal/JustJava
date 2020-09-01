@@ -120,6 +120,3 @@ public class ConsumerQueueDemo {
     }
 }
 
-class a extends ConsumerQueueDemo{
-
-}
